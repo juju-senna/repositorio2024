@@ -1,5 +1,11 @@
 body{
-    background-color: rgb(196, 8, 186);
+    background-color:#cb23c3;
      text-align: center;
-     margin: ;
+     margin: 2px
+}
+
+nav a{
+    border-bottom: solid 2px rgb(232, 11, 48)
+    padding: 20px;
+    
 }
